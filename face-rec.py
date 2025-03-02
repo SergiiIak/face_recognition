@@ -11,7 +11,7 @@ from tqdm import tqdm
 
 
 #SET HERE FILE NAMES AND PATHS
-image_path = 'reference_face.jpg'  # Reference face image
+image_path = 'reference_face_1.jpg'  # Reference face image
 video_path = 'input_video.mp4'  # Input video file
 output_video_path = 'output_video.mp4'  # Output video file
 
