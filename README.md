@@ -1,4 +1,4 @@
-# Stable face recognition in a video
+# Robust face recognition in a video
 
 The Python script, *face-rec.py*, performs face recognition in a video using FaceNet and MTCNN. It compares all detected faces in the video with a reference face image and marks identified faces in the output video.
 
