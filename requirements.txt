@@ -1,0 +1,6 @@
+torch==2.6.0
+torchaudio==2.6.0
+torchvision==0.21.0
+opencv-python==4.11.0.86
+facenet-pytorch==2.6.0
+tqdm==4.67.1
