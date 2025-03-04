@@ -15,7 +15,7 @@ Fig. 1 shows the output video generated with *face-rec.py* using a similarity th
 
 Fig. 1. Output video generated with *face-rec.py*, similarity=0.6
 
-In this case, increasing the similarity threshold—for example, to 0.7—makes sense. Fig. 2 shows the output video generated with *face-rec.py* using this updated threshold.
+In this case, increasing the similarity threshold — for example, to 0.7 — makes sense. Fig. 2 shows the output video generated with *face-rec.py* using this updated threshold.
 
 ![Output video](output_video_0.7.gif "Output video")
 
