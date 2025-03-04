@@ -4,7 +4,6 @@
 
 import cv2
 import torch
-import numpy as np
 from facenet_pytorch import MTCNN, InceptionResnetV1
 from PIL import Image
 from tqdm import tqdm
