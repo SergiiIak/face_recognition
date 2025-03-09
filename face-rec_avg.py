@@ -12,7 +12,7 @@ from tqdm import tqdm
 #SET HERE FILE NAMES AND PATHS
 reference_images = ['reference_face_1.jpg', 'reference_face_2.jpg']  # List of images of reference face
 video_path = 'input_video.mp4'  # Input video file
-output_video_path = 'output_video_aaa.mp4'  # Output video file
+output_video_path = 'output_video.mp4'  # Output video file
 
 #SET HERE SIMILARITY
 similarity = 0.7 #similarity threshold
